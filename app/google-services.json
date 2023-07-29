@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072933787822",
+    "project_id": "tienda-elect",
+    "storage_bucket": "tienda-elect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072933787822:android:273dd048ccb5f86f20353f",
+        "android_client_info": {
+          "package_name": "com.example.tiendaelec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072933787822-einp68dh6geaj34ji86en6q8dlfl6dui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN0DYTx6Hg4d_6x6UJpEV6cSezhB9FkvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072933787822-einp68dh6geaj34ji86en6q8dlfl6dui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
